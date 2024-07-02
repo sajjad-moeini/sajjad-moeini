@@ -3,7 +3,7 @@
 ----
 ## 🙋‍♂️ About Me 
 <p>
-As a programmer proficient in React with two years of work experience, technical abilities and various experiences in
+As a programmer proficient in React with 3 years of work experience, technical abilities and various experiences in
 I have the field of web development, including the ability to work in teams and success in creating React projects.. With attention
 In my two years of work experience, I have the ability to code qualitatively, optimize performance and solve complex problems
 I have React projects. I am committed to time and planning and with all my heart to achieve my dreams
