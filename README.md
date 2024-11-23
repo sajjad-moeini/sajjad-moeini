@@ -3,11 +3,7 @@
 ----
 ## 🙋‍♂️ About Me 
 <p>
-As a programmer proficient in React with 3 years of work experience, technical abilities and various experiences in
-I have the field of web development, including the ability to work in teams and success in creating React projects.. With attention
-In my two years of work experience, I have the ability to code qualitatively, optimize performance and solve complex problems
-I have React projects. I am committed to time and planning and with all my heart to achieve my dreams
-I try my goals and I try to improve and improve
+As a senior frontend developer with 3 years of experience, I have contributed to a variety of successful projects, including banking platforms, shipping websites, customer club programs, and e-commerce solutions. I have a strong command of React and have utilized techniques such as the Atom algorithm to enhance project efficiency. I am also experienced in optimizing website performance, particularly in reducing bundle size using advanced tools and strategies. Additionally, I have a deep expertise in Next.js, which I leverage to build scalable, high-performance web applications. I am passionate about creating seamless user experiences and thrive on tackling challenging projects.
 </p>
 
 ## ⚡ My Skills 
